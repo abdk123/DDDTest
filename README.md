@@ -1,0 +1,3 @@
+# DDDTest
+
+#Add core folder
