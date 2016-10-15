@@ -5,7 +5,8 @@ using System.Text;
 
 namespace SharedKernel
 {
-    public class Class1
+    public abstract class Entity
     {
+        public Guid Id { get; set; }
     }
 }
