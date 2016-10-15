@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace ApplicationService
+namespace Moks
 {
     public class Class1
     {
